@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5838155105:AAEa-1aAck--_vH-fIgp2uVxcpGFsHSgTCY"
     APP_ID = "2494960"
     API_HASH = "995a1fb62197174866fdd59729bde3d3"
-    DATABASE_URL = "mongodb+srv://woodcraft:ak@cluster0.9bupxok.mongodb.net/?retryWrites=true&w=majority"
+    DATABASE_URL = "postgresql://u7spuou5xuwmqgthaytw:Xx3vAJDkWylaRP81mSEJ@btuwhay5af0tzmw6cods-postgresql.services.clever-cloud.com:5432/btuwhay5af0tzmw6cods"
     SUDO_USERS = "647381394" # Separated by space.
     SUPPORT_CHAT_LINK = "https://t.me/+pIYMy6EzengzYTYx"
     DOWNLOAD_DIRECTORY = "./downloads/"
