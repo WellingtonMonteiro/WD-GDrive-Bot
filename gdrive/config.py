@@ -4,7 +4,7 @@ class config:
     API_HASH = "995a1fb62197174866fdd59729bde3d3"
     DATABASE_URL = "postgresql://u7spuou5xuwmqgthaytw:Xx3vAJDkWylaRP81mSEJ@btuwhay5af0tzmw6cods-postgresql.services.clever-cloud.com:5432/btuwhay5af0tzmw6cods"
     SUDO_USERS = "647381394" # Separated by space.
-    SUPPORT_CHAT_LINK = "https://t.me/+pIYMy6EzengzYTYx"
+    SUPPORT_CHAT_LINK = "-1001503938427"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "8318862170-ogodr6ov4d9l29ai0f35neojggum2qsm.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "AIzaSyCCWNKci-qr6dsv3cM0OkzoyI4mxfHZWuA"
