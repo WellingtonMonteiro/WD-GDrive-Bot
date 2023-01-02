@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Separated by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5838155105:AAEa-1aAck--_vH-fIgp2uVxcpGFsHSgTCY"
+    APP_ID = "2494960"
+    API_HASH = "995a1fb62197174866fdd59729bde3d3"
+    DATABASE_URL = "mongodb+srv://woodcraft:ak@cluster0.9bupxok.mongodb.net/?retryWrites=true&w=majority"
+    SUDO_USERS = "647381394" # Separated by space.
+    SUPPORT_CHAT_LINK = "https://t.me/+pIYMy6EzengzYTYx"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "8318862170-ogodr6ov4d9l29ai0f35neojggum2qsm.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "W2wFKvqx3RgQbFMP2gONrjgn"
 
 
 class BotCommands:
